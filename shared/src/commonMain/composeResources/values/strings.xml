@@ -1,0 +1,28 @@
+<resources>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+    <string name="placeholder_coming_soon">Coming soon</string>
+
+    <string name="home_greeting">Good morning,</string>
+    <string name="theme_switch_to_light">Switch to light theme</string>
+    <string name="theme_switch_to_dark">Switch to dark theme</string>
+    <string name="home_quick_actions">Quick actions</string>
+    <string name="home_continue_reading">Continue reading</string>
+    <string name="home_curated">Curated for you</string>
+
+    <string name="quick_action_new_post">New Post</string>
+    <string name="quick_action_search">Search</string>
+    <string name="quick_action_saved">Saved</string>
+    <string name="quick_action_profile">Profile</string>
+
+    <string name="article_meta">%1$s • %2$d min read</string>
+    <string name="reading_minutes_left">%1$d min left</string>
+
+    <string name="category_tech">Tech</string>
+    <string name="category_architecture">Architecture</string>
+    <string name="category_design_systems">Design Systems</string>
+    <string name="category_engineering">Engineering</string>
+    <string name="category_trends">Trends</string>
+</resources>
